@@ -164,6 +164,5 @@ elif menu == "⚠️ Low Stock Report":
 # ----------------- Footer ------------------
 st.markdown("""
     <div class='footer'>
-    🚀 Created with ❤️ by <strong>Abdul Rahman Baig</strong> | 2025 | Powered by Streamlit
-    </div>
+    🚀 Created with ❤️ by <strong> BUSHRA </strong> | 2025 | 
 """, unsafe_allow_html=True)
